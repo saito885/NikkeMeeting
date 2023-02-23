@@ -3,7 +3,7 @@
 ![NikkeMeeting](https://user-images.githubusercontent.com/125429745/220867666-6d667d4a-4e31-4c14-8aec-e9cf2f93f593.jpg)
 
 ## ■使い方
-①zipを解凍してNikkeMeeting.exeを実行（インストール不要）
+①zipを解凍してNikkeMeeting.exeを実行（インストール不要）  
 ②スタートボタンをクリックして面談を進める
 
 ## ■面談データ更新方法
