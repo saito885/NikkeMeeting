@@ -1,5 +1,5 @@
 # NikkeMeeting
-面談の正解を表示するツールです。右のReleasesリンクからDL可能。
+面談の正解を表示するツールです。右のReleasesリンクからDL可能。※PC版かつ日本語専用
 ![NikkeMeeting](https://user-images.githubusercontent.com/125429745/220867666-6d667d4a-4e31-4c14-8aec-e9cf2f93f593.jpg)
 
 ## ■使い方
