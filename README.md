@@ -10,11 +10,11 @@
 一部に正しく読み取れない選択肢があるため、少し待っても正解が表示されないようなら一旦キャンセルして別の会話に切り換える事をお勧めします。
 
 面談データは<a href="https://wiki3.jp/nikke/page/217">勝利の女神：NIKKE wiki JP（有志メガニケ攻略wiki）の面談の選択肢一覧ページ</a>を参考にしています。  
-wikiからの反映は気付き次第となります。
+wikiに追加されたデータは気付き次第反映します。
 
 ## ■面談データ更新方法
 方法1：設定を開いて「NikkeLibrary.jsonの更新確認」をクリック  
-方法2：NikkeLibrary\NikkeLibrary.jsonをメモ帳で開いて自力で修正
+方法2：NikkeMeeting.exeが入っているフォルダ¥NikkeLibrary¥NikkeLibrary.jsonをメモ帳で開いて自力で修正
 
 ## ■更新履歴
 <pre>
