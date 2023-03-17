@@ -1,6 +1,6 @@
 # NikkeMeeting
 面談の正解を表示するツールです。右のReleasesリンクからDL可能。※PC版かつ日本語専用
-![NikkeMeeting](https://user-images.githubusercontent.com/125429745/220867666-6d667d4a-4e31-4c14-8aec-e9cf2f93f593.jpg)
+![20230317_013055000_iOS](https://user-images.githubusercontent.com/125429745/225838963-71afc7ae-a198-42dd-889c-75001d072b08.jpg)
 
 ## ■使い方
 ①zipを解凍してNikkeMeeting.exeを実行（インストール不要）  
@@ -20,6 +20,10 @@ wikiに追加されたデータは気付き次第反映します。
 
 ## ■更新履歴
 <pre>
+■2023/3/17 本体更新 v0.08
+　[fix]NIKKE本体の邪魔にならないよう余分なスペースを削除してウィンドウを縮小化
+　[fix]選択肢の取得座標を微調整
+
 ■2023/3/16 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（ビスケット　※一部の選択肢は調査中）
 
