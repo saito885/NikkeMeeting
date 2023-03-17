@@ -1,6 +1,7 @@
 # NikkeMeeting
 面談の正解を表示するツールです。右のReleasesリンクからDL可能。※PC版かつ日本語専用
 ![20230317_013055000_iOS](https://user-images.githubusercontent.com/125429745/225838963-71afc7ae-a198-42dd-889c-75001d072b08.jpg)
+![20230317_013055000_iOS](https://user-images.githubusercontent.com/125429745/225843023-ba12f126-66a4-43bf-9831-d4adb2aa40fa.jpg)
 
 ## ■使い方
 ①zipを解凍してNikkeMeeting.exeを実行（インストール不要）  
