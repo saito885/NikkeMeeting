@@ -1,10 +1,22 @@
 # NikkeMeeting
-面談の正解を表示するツールです。右のReleasesリンクからDL可能。※PC版かつ日本語専用
+面談の正解を表示するツールです。
 ![20230317_013055000_iOS](https://user-images.githubusercontent.com/125429745/225843023-ba12f126-66a4-43bf-9831-d4adb2aa40fa.jpg)
 
-## ■使い方
-①zipを解凍してNikkeMeeting.exeを実行（インストール不要）  
-②スタートボタンをクリックして面談を進める
+## ■動作環境
+・Windows PC（必須）  
+・PC版NIKKE または スマホ版NIKKE（スマホの場合はミラーリングソフトApowerMirrorが必要）
+
+## ■使い方（PC版NIKKEの場合）
+①右のReleasesリンクからNikkeMeeting_x.xx.zipをDL  
+②zipを解凍し、中にあるNikkeMeeting.exeを実行  
+③NikkeMeetingのスタートボタンをクリックして面談を進める
+
+## ■使い方（スマホ版NIKKEの場合）
+①右のReleasesリンクからNikkeMeeting_x.xx.zipをDL  
+②zipを解凍し、中にあるNikkeMeeting.exeを実行  
+③スマホとPC両方にApowerMirrorをインストール（無償のままでもOK）  
+④ApowerMirrorを起動してスマホの画面をPCへミラーリング  
+⑤NikkeMeetingのスタートボタンをクリックして面談を進める
 
 ## ■注意
 一部に正しく読み取れない選択肢があるため、少し待っても正解が表示されないようなら一旦キャンセルして別の会話に切り換える事をお勧めします。
@@ -20,6 +32,13 @@ wikiに追加されたデータは気付き次第反映します。
 
 ## ■更新履歴
 <pre>
+■2023/3/23 本体更新 v0.09
+　[fix]上選択肢が同じものが複数ある場合の判定精度を向上
+　[add]ApowerMirrorを使用してスマホからPCへミラーリングした画面でも判定できるよう対応
+ 
+■2023/3/23 NikkeLibrary.json更新
+　[fix]上下共に同じ選択肢がある場合のjsonの書き方を変更
+ 
 ■2023/3/18 NikkeLibrary.json更新
 　[add]調査中としていた正解を設定（ビスケット、ギルティ）
 　[add]複数のキャラに同じ選択肢がある場合の正解の書き方を変更
