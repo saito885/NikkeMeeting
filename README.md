@@ -28,19 +28,19 @@
 
 ## ■更新履歴
 <pre>
-  ■2024/01/01 NikkeLibrary.json更新
+■2024/01/01 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（紅蓮：ブラックシャドウ）
   
-  ■2023/12/14 NikkeLibrary.json更新
+■2023/12/14 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（ミカ：スノーバディ）
 
-  ■2023/12/08 NikkeLibrary.json更新
+■2023/12/08 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（ルドミラ：ウィンターオーナー）
 
-  ■2023/11/26 NikkeLibrary.json更新
+■2023/11/26 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（トーブ）
  
- ■2023/11/04 NikkeLibrary.json更新
+■2023/11/04 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（レッドフード、スノーホワイト：イノセントデイズ）
  
 ■2023/10/27 NikkeLibrary.json更新
