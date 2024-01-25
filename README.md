@@ -28,6 +28,9 @@
 
 ## ■更新履歴
 <pre>
+■2024/01/26 NikkeLibrary.json更新
+　[add]対象キャラクターを追加（モラン）
+  
 ■2024/01/14 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（レオナ）
   
