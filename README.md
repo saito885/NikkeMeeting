@@ -28,6 +28,9 @@
 
 ## ■更新履歴
 <pre>
+■2024/03/02 NikkeLibrary.json更新
+　[add]対象キャラクターを追加（エレグ）
+  
 ■2024/02/15 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（エード）
   
