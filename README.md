@@ -28,6 +28,9 @@
 
 ## ■更新履歴
 <pre>
+■2024/03/09 NikkeLibrary.json更新
+　[add]対象キャラクターを追加（D：キラーワイフ）
+  
 ■2024/03/02 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（エレグ）
   
