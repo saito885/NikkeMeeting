@@ -28,6 +28,12 @@
 
 ## ■更新履歴
 <pre>
+■2024/05/18 NikkeLibrary.json更新
+　[add]対象キャラクターを追加（トロニー）
+  
+■2024/04/26 NikkeLibrary.json更新
+　[add]対象キャラクターを追加（クラウン、キロ）
+  
 ■2024/04/15 NikkeLibrary.json更新
 　[add]対象キャラクターを追加（ベイ）
   
